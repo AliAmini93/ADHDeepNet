@@ -25,13 +25,8 @@ Due to challenges in EEG data collection, ADHDeepNet leverages Data Augmentation
 - **Hyperparameter Optimization**: Uses Bayesian Optimization for model tuning to achieve optimal performance in ADHD diagnosis.
 
 ## Code and Usage
-(Provide setup instructions, library requirements, and step-by-step usage commands here.)
+The code for ADHDeepNet is provided as a Jupyter Notebook and can be accessed at the following link: [ADHDeepNet Jupyter Notebook](https://github.com/AliAmini93/ADHDeepNet/blob/main/(10-2)k-fold%20TactileNet%2B%20Data%20Augmentation%2Bgp_minimize.ipynb). This notebook includes detailed instructions for setting up the environment, loading the dataset, and running the model.
 
-## Contributing
-(Include guidelines for contributing to the project, if applicable.)
+The raw EEG dataset used for training and evaluating ADHDeepNet is publicly available and can be downloaded from: [EEG Data for ADHD and Control Children](https://ieee-dataport.org/open-access/eeg-data-adhd-control-children). Please refer to this link for access to the dataset and its documentation.
 
-## License
-(Indicate the license under which your code is available, e.g., MIT, GPL.)
 
-## Citation
-(Provide citation details for referencing your paper in academic work.)
